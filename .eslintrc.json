@@ -1,0 +1,5 @@
+//Arquivo para pegar as configurações do eslint para REACT.
+
+{
+    "extends":"@rocketseat/eslint-config/react"
+}
